@@ -1,0 +1,4 @@
+HTTP/1.1 405 Method Not Allowed
+Content-Type: application/json
+
+{"status": "error", "message": "Method not allowed"}
